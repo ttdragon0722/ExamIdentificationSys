@@ -1,0 +1,7 @@
+train: yolov7/customdata/train.txt
+val: yolov7/customdata/valid.txt
+test: yolov7/customdata/valid.txt
+# number of classes
+nc:
+# class names
+names: []
